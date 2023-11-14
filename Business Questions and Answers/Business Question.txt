@@ -1,0 +1,15 @@
+Q#1
+Can you please give me an overview of sales for 2004?
+I would like to see a breakdown by product, country, and city and please include the sales value, cost of sales, and net profit
+
+Q#2
+Can you give me a breakdown of what products are commonly purchased together, and any products that are rarely purchased together?
+
+Q#3
+Can you show me a breakdown of sales, but also show their credit limit? maybe group the credit limit as i want a high level view to see if we get higher sales for customers who have a higher credit limit which we would expect
+
+Q#4
+Can i have a view showing customers sales and include a column which shows the difference in value from their previous sales? 
+
+Q#5
+Can you show me a view of where the customers of each office are located?
