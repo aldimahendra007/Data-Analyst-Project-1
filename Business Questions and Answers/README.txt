@@ -1,1 +1,0 @@
-All of the data contained in the excel workbooks are originated from the dataset provided on this repository. in case of there are columns in the workbook that do not exist on the dataset, the columns were created during the data extraction in MySQL Workbench
